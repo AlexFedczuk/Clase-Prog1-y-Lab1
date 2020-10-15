@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1599590900 source:c:\users\pc\documents\clases prog y labo i\clase 06 ejercicio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"miBiblioteca.h"
+
+1599590919 source:c:\users\pc\documents\clases prog y labo i\clase 06 ejercicio\mibiblioteca.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1599590900 c:\users\pc\documents\clases prog y labo i\clase 06 ejercicio\mibiblioteca.h
+

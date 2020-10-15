@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601836173 source:c:\users\pc\documents\clases prog y labo i\clase 11 (29-09-2020)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaAlumnos.h"
+
+1601836790 source:c:\users\pc\documents\clases prog y labo i\clase 11 (29-09-2020)\bibliotecaalumnos.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaAlumnos.h"
+
+1601836790 c:\users\pc\documents\clases prog y labo i\clase 11 (29-09-2020)\bibliotecaalumnos.h
+

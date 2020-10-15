@@ -1,0 +1,10 @@
+void CargarNumeros(int vector[], int tam);
+int CalcularNumeroMaximo(int vector[], int tam);
+int CalcularNumeroMinimo(int vector[], int tam);
+int AcumularNumeros(int vector[], int tam);
+float CalcularPromedio(int total, int unidades);
+int ContarNumerosMaximos(int vector[], int tam, int numeroMaximo);
+int ContarNumerosMinimos(int vector[], int tam, int numeroMinimo);
+void MostrarNumerosMaximosYIndice(int vector[], int tam, int numeroMaximo);
+void MostrarNumerosMinimosYIndice(int vector[], int tam, int numeroMinimo);
+void MostrarListadoNumeros(int vector[], int tam);

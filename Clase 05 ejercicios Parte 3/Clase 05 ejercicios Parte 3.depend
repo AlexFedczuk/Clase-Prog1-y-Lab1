@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599508901 source:c:\users\pc\documents\clases prog y labo i\clase 05 ejercicios parte 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesClase05.h"
+
+1599508873 source:c:\users\pc\documents\clases prog y labo i\clase 05 ejercicios parte 3\funcionesclase05.c
+	<stdio.h>
+	"funcionesClase05.h"
+
+1599508873 c:\users\pc\documents\clases prog y labo i\clase 05 ejercicios parte 3\funcionesclase05.h
+
