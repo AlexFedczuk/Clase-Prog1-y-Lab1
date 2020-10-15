@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1598988075 source:c:\users\pc\documents\clases prog y labo i\clase 04 ejercicio (01-09-2020)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionClase04.h"
+
+1598988012 source:c:\users\pc\documents\clases prog y labo i\clase 04 ejercicio (01-09-2020)\funcionclase04.c
+	"funcionClase04.h"
+
+1598988182 c:\users\pc\documents\clases prog y labo i\clase 04 ejercicio (01-09-2020)\funcionclase04.h
+	<stdio.h>
+
